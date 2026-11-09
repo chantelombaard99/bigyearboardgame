@@ -1,1 +1,79 @@
-{}
+{
+ "KRU-01": {
+  "file": "KRU-01.wav",
+  "bird": "Hadeda Ibis",
+  "recordist": "African Bioacoustics Community",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1166422"
+ },
+ "KRU-02": {
+  "file": "KRU-02.wav",
+  "bird": "African Fish Eagle",
+  "recordist": "African Bioacoustics Community",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1018203"
+ },
+ "KRU-03": {
+  "file": "KRU-03.wav",
+  "bird": "Emerald-spotted Wood Dove",
+  "recordist": "African Bioacoustics Community",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1045934"
+ },
+ "KRU-04": {
+  "file": "KRU-04.wav",
+  "bird": "Cape Turtle Dove",
+  "recordist": "African Bioacoustics Community",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1191035"
+ },
+ "KRU-05": {
+  "file": "KRU-05.wav",
+  "bird": "Grey Go-away-bird",
+  "recordist": "African Bioacoustics Community",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1149066"
+ },
+ "KRU-06": {
+  "file": "KRU-06.mp3",
+  "bird": "Orange-breasted Bushshrike",
+  "recordist": "Nick Talbot",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/948938"
+ },
+ "KRU-07": {
+  "file": "KRU-07.wav",
+  "bird": "Woodland Kingfisher",
+  "recordist": "African Bioacoustics Community",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1016276"
+ },
+ "KRU-08": {
+  "file": "KRU-08.mp3",
+  "bird": "Southern Ground Hornbill",
+  "recordist": "Marc Anderson",
+  "licence": "CC BY-NC-ND 4.0",
+  "source": "https://xeno-canto.org/834698"
+ },
+ "KRU-09": {
+  "file": "KRU-09.mp3",
+  "bird": "Burchell's Coucal",
+  "recordist": "Marc Anderson",
+  "licence": "CC BY-NC-ND 4.0",
+  "source": "https://xeno-canto.org/875574"
+ },
+ "KRU-10": {
+  "file": "KRU-10.mp3",
+  "bird": "Red-chested Cuckoo",
+  "recordist": "Rick Nuttall",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/819119"
+ },
+ "KRU-11": {
+  "file": "KRU-11.mp3",
+  "bird": "Pearl-spotted Owlet",
+  "recordist": "Marc Anderson",
+  "licence": "CC BY-NC-ND 4.0",
+  "source": "https://xeno-canto.org/834729"
+ }
+}
