@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Big Year · Recording credits</title>
+<style>
+body { margin: 0; padding: 24px 16px 40px; background: #F3E9D2; color: #2F241A; font-family: Arial, sans-serif; }
+h1 { font-family: Georgia, serif; font-style: italic; margin: 0 0 4px; }
+p { max-width: 640px; line-height: 1.5; }
+table { border-collapse: collapse; width: 100%; max-width: 760px; font-size: 14px; }
+th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid #CDBB98; }
+.warn { font-weight: bold; }
+</style>
+</head>
+<body>
+<h1>Recording credits</h1>
+<p class="warn">Spoiler warning: this page names the birds.</p>
+<p>The bird calls in The Big Year are recordings shared by their recordists on xeno-canto.org under Creative Commons licences. Thank you to every recordist.</p>
+<table><thead><tr><th>Card</th><th>Bird</th><th>Recordist</th><th>Licence</th><th>Source</th></tr></thead><tbody id="rows"></tbody></table>
+<script>
+fetch("calls.json", { cache: "no-cache" }).then(r => r.json()).then(calls => {
+  const esc = s => String(s || "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  document.getElementById("rows").innerHTML = Object.entries(calls).sort().map(([id, c]) =>
+    `<tr><td>${esc(id)}</td><td>${esc(c.bird)}</td><td>${esc(c.recordist)}</td><td>${esc(c.licence)}</td>` +
+    `<td>${c.source ? `<a href="${esc(c.source)}">${esc(c.source.replace(/^https?:\/\//, ""))}</a>` : ""}</td></tr>`).join("");
+}).catch(() => {});
+</script>
+</body>
+</html>
