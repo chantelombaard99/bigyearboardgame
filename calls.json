@@ -377,6 +377,104 @@
   "licence": "CC BY-NC-SA 4.0",
   "source": "https://xeno-canto.org/473356"
  },
+ "RAR-01": {
+  "file": "RAR-01.mp3",
+  "bird": "Taita Falcon",
+  "recordist": "David C. Moyer",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/346110"
+ },
+ "RAR-02": {
+  "file": "RAR-02.mp3",
+  "bird": "Green Barbet",
+  "recordist": "Daniel Danckwerts",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/524839"
+ },
+ "RAR-03": {
+  "file": "RAR-03.mp3",
+  "bird": "African Pitta",
+  "recordist": "Dries Van de Loock",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/745570"
+ },
+ "RAR-04": {
+  "file": "RAR-04.mp3",
+  "bird": "Three-banded Courser",
+  "recordist": "Dries Van de Loock",
+  "licence": "CC BY-NC-ND 4.0",
+  "source": "https://xeno-canto.org/1046979"
+ },
+ "RAR-05": {
+  "file": "RAR-05.wav",
+  "bird": "Bat Hawk",
+  "recordist": "Nature sounds by Simply Birding",
+  "licence": "CC BY-NC-ND 4.0",
+  "source": "https://xeno-canto.org/758044"
+ },
+ "RAR-06": {
+  "file": "RAR-06.mp3",
+  "bird": "Rudd's Lark",
+  "recordist": "Charles Hesse",
+  "licence": "CC BY-NC-ND 4.0",
+  "source": "https://xeno-canto.org/62296"
+ },
+ "RAR-07": {
+  "file": "RAR-07.mp3",
+  "bird": "Blue Swallow",
+  "recordist": "Dries Van de Loock",
+  "licence": "CC BY-NC-ND 4.0",
+  "source": "https://xeno-canto.org/963298"
+ },
+ "RAR-08": {
+  "file": "RAR-08.mp3",
+  "bird": "Wattled Crane",
+  "recordist": "Dries Van de Loock",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/584673"
+ },
+ "RAR-09": {
+  "file": "RAR-09.mp3",
+  "bird": "Burchell's Courser",
+  "recordist": "Lynette Rudman",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/597244"
+ },
+ "RAR-10": {
+  "file": "RAR-10.mp3",
+  "bird": "Red Lark",
+  "recordist": "Hans Matheve",
+  "licence": "CC BY-NC-ND 4.0",
+  "source": "https://xeno-canto.org/395391"
+ },
+ "RAR-11": {
+  "file": "RAR-11.wav",
+  "bird": "Red-necked Phalarope",
+  "recordist": "Stanislas Wroza",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1168532"
+ },
+ "RAR-12": {
+  "file": "RAR-12.mp3",
+  "bird": "Wandering Albatross",
+  "recordist": "Hichem Machouk",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/623847"
+ },
+ "RAR-14": {
+  "file": "RAR-14.mp3",
+  "bird": "Hottentot Buttonquail",
+  "recordist": "Eastern Cape Birding",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/397169"
+ },
+ "RAR-16": {
+  "file": "RAR-16.mp3",
+  "bird": "Tristan Albatross",
+  "recordist": "Chris Taylor",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/325540"
+ },
  "VIC-03": {
   "file": "VIC-03.wav",
   "bird": "Trumpeter Hornbill",
