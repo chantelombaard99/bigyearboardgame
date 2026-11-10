@@ -1,4 +1,158 @@
 {
+ "DRA-08": {
+  "file": "DRA-08.mp3",
+  "bird": "Grey Crowned Crane",
+  "recordist": "Frank Lambert",
+  "licence": "CC BY-NC-ND 4.0",
+  "source": "https://xeno-canto.org/517503"
+ },
+ "DRA-13": {
+  "file": "DRA-13.wav",
+  "bird": "Jackal Buzzard",
+  "recordist": "African Bioacoustics Community",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1090801"
+ },
+ "DRA-17": {
+  "file": "DRA-17.wav",
+  "bird": "Cape Wagtail",
+  "recordist": "African Bioacoustics Community",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1082946"
+ },
+ "FYN-05": {
+  "file": "FYN-05.mp3",
+  "bird": "Victorin's Warbler",
+  "recordist": "Tristan Spurway",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1024582"
+ },
+ "FYN-08": {
+  "file": "FYN-08.wav",
+  "bird": "Cape Bulbul",
+  "recordist": "African Bioacoustics Community",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1172473"
+ },
+ "FYN-12": {
+  "file": "FYN-12.wav",
+  "bird": "Cape Grassbird",
+  "recordist": "Richard White",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1009177"
+ },
+ "FYN-15": {
+  "file": "FYN-15.wav",
+  "bird": "Cape Canary",
+  "recordist": "African Bioacoustics Community",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1193110"
+ },
+ "FYN-16": {
+  "file": "FYN-16.wav",
+  "bird": "Sombre Greenbul",
+  "recordist": "African Bioacoustics Community",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1191044"
+ },
+ "GAR-03": {
+  "file": "GAR-03.wav",
+  "bird": "Terrestrial Brownbul",
+  "recordist": "Walter Wallner",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1162837"
+ },
+ "GAR-11": {
+  "file": "GAR-11.mp3",
+  "bird": "Narina Trogon",
+  "recordist": "Niall Perrins",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/607366"
+ },
+ "GAR-13": {
+  "file": "MAG-17.mp3",
+  "bird": "African Emerald Cuckoo",
+  "recordist": "Ian-Malcolm Rijsdijk",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1042847"
+ },
+ "GAR-14": {
+  "file": "KRU-04.wav",
+  "bird": "Cape Turtle Dove",
+  "recordist": "African Bioacoustics Community",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1191035"
+ },
+ "HVD-02": {
+  "file": "HVD-02.wav",
+  "bird": "Crested Barbet",
+  "recordist": "Paul Lynch",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1169301"
+ },
+ "HVD-04": {
+  "file": "HVD-04.wav",
+  "bird": "Laughing Dove",
+  "recordist": "African Bioacoustics Community",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1044306"
+ },
+ "HVD-05": {
+  "file": "HVD-05.wav",
+  "bird": "Black-collared Barbet",
+  "recordist": "African Bioacoustics Community",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1149020"
+ },
+ "HVD-12": {
+  "file": "HVD-12.wav",
+  "bird": "Northern Black Korhaan",
+  "recordist": "Dawie de Swardt",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/843706"
+ },
+ "HVD-18": {
+  "file": "KRU-01.wav",
+  "bird": "Hadeda Ibis",
+  "recordist": "African Bioacoustics Community",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1166422"
+ },
+ "KAL-06": {
+  "file": "KAL-06.mp3",
+  "bird": "Namaqua Sandgrouse",
+  "recordist": "Frank Lambert",
+  "licence": "CC BY-NC-ND 4.0",
+  "source": "https://xeno-canto.org/515516"
+ },
+ "KAL-17": {
+  "file": "KRU-04.wav",
+  "bird": "Cape Turtle Dove",
+  "recordist": "African Bioacoustics Community",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1191035"
+ },
+ "KAR-01": {
+  "file": "KAR-01.mp3",
+  "bird": "Karoo Korhaan",
+  "recordist": "Lynette Rudman",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/726757"
+ },
+ "KAR-14": {
+  "file": "KAR-14.mp3",
+  "bird": "Pririt Batis",
+  "recordist": "Lynette Rudman",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/741518"
+ },
+ "KAR-15": {
+  "file": "KAR-15.mp3",
+  "bird": "Grey Tit",
+  "recordist": "Lynette Rudman",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/610170"
+ },
  "KRU-01": {
   "file": "KRU-01.wav",
   "bird": "Hadeda Ibis",
@@ -75,5 +229,89 @@
   "recordist": "Marc Anderson",
   "licence": "CC BY-NC-ND 4.0",
   "source": "https://xeno-canto.org/834729"
+ },
+ "MAG-05": {
+  "file": "MAG-05.mp3",
+  "bird": "Chorister Robin-Chat",
+  "recordist": "Ian-Malcolm Rijsdijk",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1042965"
+ },
+ "MAG-10": {
+  "file": "KRU-10.mp3",
+  "bird": "Red-chested Cuckoo",
+  "recordist": "Rick Nuttall",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/819119"
+ },
+ "MAG-14": {
+  "file": "MAG-14.wav",
+  "bird": "Southern Boubou",
+  "recordist": "African Bioacoustics Community",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1191034"
+ },
+ "MAG-16": {
+  "file": "MAG-16.wav",
+  "bird": "Dark-capped Bulbul",
+  "recordist": "African Bioacoustics Community",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1018824"
+ },
+ "MAG-17": {
+  "file": "MAG-17.mp3",
+  "bird": "African Emerald Cuckoo",
+  "recordist": "Ian-Malcolm Rijsdijk",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1042847"
+ },
+ "VIC-03": {
+  "file": "VIC-03.wav",
+  "bird": "Trumpeter Hornbill",
+  "recordist": "African Bioacoustics Community",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1073610"
+ },
+ "WCO-13": {
+  "file": "WCO-13.wav",
+  "bird": "Whimbrel",
+  "recordist": "Petter Westberg",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1087260"
+ },
+ "WCO-18": {
+  "file": "WCO-18.wav",
+  "bird": "Kelp Gull",
+  "recordist": "African Bioacoustics Community",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1177085"
+ },
+ "ZUL-07": {
+  "file": "ZUL-07.mp3",
+  "bird": "African Wood Owl",
+  "recordist": "Marc Anderson",
+  "licence": "CC BY-NC-ND 4.0",
+  "source": "https://xeno-canto.org/834147"
+ },
+ "ZUL-13": {
+  "file": "VIC-03.wav",
+  "bird": "Trumpeter Hornbill",
+  "recordist": "African Bioacoustics Community",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1073610"
+ },
+ "ZUL-17": {
+  "file": "ZUL-17.mp3",
+  "bird": "White-eared Barbet",
+  "recordist": "Daan van der Hoeven",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/934651"
+ },
+ "ZUL-18": {
+  "file": "ZUL-18.wav",
+  "bird": "Purple-crested Turaco",
+  "recordist": "Rachel Probert",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/982619"
  }
 }
