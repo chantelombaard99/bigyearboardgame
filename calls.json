@@ -20,6 +20,27 @@
   "licence": "CC BY-NC-SA 4.0",
   "source": "https://xeno-canto.org/1082946"
  },
+ "DRA-31": {
+  "file": "DRA-31.mp3",
+  "bird": "Wailing Cisticola",
+  "recordist": "Lynette Rudman",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/776984"
+ },
+ "DRA-33": {
+  "file": "DRA-33.wav",
+  "bird": "White-necked Raven",
+  "recordist": "Walter Wallner",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1162408"
+ },
+ "DRA-35": {
+  "file": "DRA-35.mp3",
+  "bird": "Blue Korhaan",
+  "recordist": "Tony Archer",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/599128"
+ },
  "FYN-05": {
   "file": "FYN-05.mp3",
   "bird": "Victorin's Warbler",
@@ -55,6 +76,34 @@
   "licence": "CC BY-NC-SA 4.0",
   "source": "https://xeno-canto.org/1191044"
  },
+ "FYN-21": {
+  "file": "FYN-21.mp3",
+  "bird": "Grey-winged Francolin",
+  "recordist": "Peter Boesman",
+  "licence": "CC BY-NC-ND 4.0",
+  "source": "https://xeno-canto.org/392686"
+ },
+ "FYN-26": {
+  "file": "FYN-26.mp3",
+  "bird": "Neddicky",
+  "recordist": "Tim Cockcroft",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/621295"
+ },
+ "FYN-29": {
+  "file": "FYN-29.wav",
+  "bird": "Red-winged Starling",
+  "recordist": "African Bioacoustics Community",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1082942"
+ },
+ "FYN-30": {
+  "file": "FYN-30.wav",
+  "bird": "Southern Black Korhaan",
+  "recordist": "African Bioacoustics Community",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1000715"
+ },
  "GAR-03": {
   "file": "GAR-03.wav",
   "bird": "Terrestrial Brownbul",
@@ -82,6 +131,34 @@
   "recordist": "African Bioacoustics Community",
   "licence": "CC BY-NC-SA 4.0",
   "source": "https://xeno-canto.org/1191035"
+ },
+ "GAR-20": {
+  "file": "GAR-20.wav",
+  "bird": "Green-backed Camaroptera",
+  "recordist": "African Bioacoustics Community",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1149404"
+ },
+ "GAR-26": {
+  "file": "GAR-26.mp3",
+  "bird": "Black-headed Oriole",
+  "recordist": "Ehren Eksteen",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1187626"
+ },
+ "GAR-28": {
+  "file": "GAR-28.wav",
+  "bird": "Olive Thrush",
+  "recordist": "African Bioacoustics Community",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1183535"
+ },
+ "GAR-30": {
+  "file": "GAR-30.wav",
+  "bird": "Spotted Eagle-Owl",
+  "recordist": "African Bioacoustics Community",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1051966"
  },
  "HVD-02": {
   "file": "HVD-02.wav",
@@ -132,6 +209,13 @@
   "licence": "CC BY-NC-SA 4.0",
   "source": "https://xeno-canto.org/1191035"
  },
+ "KAL-25": {
+  "file": "KAL-25.mp3",
+  "bird": "Sabota Lark",
+  "recordist": "Tony Archer",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/709663"
+ },
  "KAR-01": {
   "file": "KAR-01.mp3",
   "bird": "Karoo Korhaan",
@@ -152,6 +236,20 @@
   "recordist": "Lynette Rudman",
   "licence": "CC BY-NC-SA 4.0",
   "source": "https://xeno-canto.org/610170"
+ },
+ "KAR-22": {
+  "file": "KAR-22.mp3",
+  "bird": "Karoo Thrush",
+  "recordist": "Nature sounds by Simply Birding",
+  "licence": "CC BY-NC-ND 4.0",
+  "source": "https://xeno-canto.org/751159"
+ },
+ "KAR-27": {
+  "file": "KAR-27.mp3",
+  "bird": "Large-billed Lark",
+  "recordist": "Ehren Eksteen",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1005406"
  },
  "KRU-01": {
   "file": "KRU-01.wav",
@@ -265,6 +363,20 @@
   "licence": "CC BY-NC-SA 4.0",
   "source": "https://xeno-canto.org/1042847"
  },
+ "MAG-27": {
+  "file": "MAG-27.wav",
+  "bird": "Bar-throated Apalis",
+  "recordist": "Paul Lynch",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1186347"
+ },
+ "MAG-31": {
+  "file": "MAG-31.mp3",
+  "bird": "Lemon Dove",
+  "recordist": "Tim Cockcroft",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/473356"
+ },
  "VIC-03": {
   "file": "VIC-03.wav",
   "bird": "Trumpeter Hornbill",
@@ -285,6 +397,13 @@
   "recordist": "African Bioacoustics Community",
   "licence": "CC BY-NC-SA 4.0",
   "source": "https://xeno-canto.org/1177085"
+ },
+ "WCO-24": {
+  "file": "WCO-24.mp3",
+  "bird": "Grey Plover",
+  "recordist": "Peter Boesman",
+  "licence": "CC BY-NC-ND 4.0",
+  "source": "https://xeno-canto.org/392640"
  },
  "ZUL-07": {
   "file": "ZUL-07.mp3",
@@ -313,5 +432,26 @@
   "recordist": "Rachel Probert",
   "licence": "CC BY-NC-SA 4.0",
   "source": "https://xeno-canto.org/982619"
+ },
+ "ZUL-25": {
+  "file": "ZUL-25.wav",
+  "bird": "Gorgeous Bushshrike",
+  "recordist": "African Bioacoustics Community",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/1010688"
+ },
+ "ZUL-32": {
+  "file": "ZUL-32.mp3",
+  "bird": "Red-capped Robin-Chat",
+  "recordist": "Nada Crafford",
+  "licence": "CC BY-NC-SA 4.0",
+  "source": "https://xeno-canto.org/417460"
+ },
+ "ZUL-43": {
+  "file": "ZUL-43.mp3",
+  "bird": "Crowned Hornbill",
+  "recordist": "Peter Boesman",
+  "licence": "CC BY-NC-ND 4.0",
+  "source": "https://xeno-canto.org/280773"
  }
 }
